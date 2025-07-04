@@ -1,5 +1,4 @@
-Personagem: Shrek
 
-Onde ele mora?
-Ele é limpo?
-Ele tem cabelo?
+Onde ele mora?  Pântano
+Ele é limpo?	não
+Ele tem cabelo?	não
